@@ -19,6 +19,6 @@ PennKey: ebergamo
      
   3. GameLogic: includes all playing aspects of the game and how different elements interact.
   
-  4. Game: includes UX elements of the game.
+  4. Game: includes UX elements of the game – use this file in order to run the game.
   
   5. ImageLoader: helper class to obtain all necessary images that are displayed to the user.
